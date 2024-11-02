@@ -3,6 +3,8 @@ Add a custom font to scratch
 > **Fonts**
 > *these are the font added*
 
-* [Helvetica](./Helvetica.zip)
-* [Verdana](./Verdana.zip)
-* [Times New Roman](./TimesNR.zip)
+* [Helvetica](./Helvetica/)
+* [Verdana](./Verdana/)
+* [Times New Roman](./TimesNR/)
+
+> There will be more soon...
