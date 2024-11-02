@@ -1,10 +1,8 @@
 # ScratchCustomFont
 Add a custom font to scratch
-> **Fonts**
-> *these are the font added*
 
-* [Helvetica](./Helvetica/)
-* [Verdana](./Verdana/)
-* [Times New Roman](./TimesNR/)
+## Generate font here
 
-> There will be more soon...
+<input type="number" placeholder="Font Size"/>
+<input placeholder="Font Name">
+<button>generate</button>
