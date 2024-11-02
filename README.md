@@ -3,5 +3,6 @@ Add a custom font to scratch
 > **Fonts**
 > *these are the font added*
 
-* [Futura](./Futura.zip)
+* [Helvetica](./Helvetica.zip)
+* [Verdana](./Verdana.zip)
 * [Times New Roman](./TimesNR.zip)
